@@ -1,5 +1,5 @@
 # Overview
-This is a very simple, bare-bones NodeJS project created for you to use with Docker.
+This is a very simple, bare-bones NodeJS project created for you to use with Docker and setup a Continous Integration pipeline with Travis-CI. We also learn how to specify environment variables (Docker Username, Password, and custom env. variables)
 
 # Local Setup
 * Install dependencies: `npm install`
